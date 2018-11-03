@@ -1,0 +1,76 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+
+.myForm {
+  width: 70%;
+  border-radius: 5px;
+  padding: 20px;
+  padding-left: 62px;
+  border: 1px solid #cdf3ed;
+}
+
+.formField {
+  width:88%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.myButton {
+  width: 88%;
+  background-color: #00b894;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myList {
+  list-style: none;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
+
+.myListButtonR {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  background-color: #f94c4c;
+  border-radius: 5px;
+  border: 1px solid #00b894;
+  margin:3px 5px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.myListButtonE{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  background-color: #218be9;
+  border-radius: 5px;
+  border: 1px solid #000103;
+  margin:3px 5px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+select {
+  margin-left: 1rem;
+  border-color: #0a927b;
+  border-radius: 7px;
+  box-shadow: 1px solid red;
+  width: 14rem;
+  height: 35px;
+}
+h2{
+  margin-left: 6rem;
+}
